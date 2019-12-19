@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-19T20:32:03.208Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="o01L6ld2KSbb4KG8x9zr" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-19T20:34:36.612Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="dFGawXir_AkR7CXD_WQm" version="12.4.3" type="github" pages="1">
   <diagram id="GA6xuZxUyR5IifmVGQSb" name="Page-1">
     <mxGraphModel dx="1352" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,6 +11,9 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="zLgNUGPnG8aRS4wBaRSG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zLgNUGPnG8aRS4wBaRSG-1" target="zLgNUGPnG8aRS4wBaRSG-6">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="zLgNUGPnG8aRS4wBaRSG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zLgNUGPnG8aRS4wBaRSG-1" target="zLgNUGPnG8aRS4wBaRSG-12">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="zLgNUGPnG8aRS4wBaRSG-1" value="owner" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;" vertex="1" parent="1">
@@ -36,6 +39,9 @@
         </mxCell>
         <mxCell id="zLgNUGPnG8aRS4wBaRSG-8" value="Validate Email" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="30" width="140" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="zLgNUGPnG8aRS4wBaRSG-12" value="View biling info" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="460" width="140" height="70" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
