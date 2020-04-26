@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-26T11:05:04.008Z" agent="5.0 (X11)" etag="puBc9v_IkDWAY2z4BIo3" version="12.9.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-04-26T11:12:47.122Z" agent="5.0 (X11)" etag="uX9-jbBJ320LIYm_zmpv" version="12.9.7" type="github" pages="2">
   <diagram id="GA6xuZxUyR5IifmVGQSb" name="UseCase">
     <mxGraphModel dx="1355" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -69,7 +69,7 @@
         <mxCell id="gEAIfcokmeNvzJ3RXV00-5" value="Admin" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="230" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gEAIfcokmeNvzJ3RXV00-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gEAIfcokmeNvzJ3RXV00-6" value="View Trainig info" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="120" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
