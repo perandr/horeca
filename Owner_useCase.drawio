@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-26T11:12:47.122Z" agent="5.0 (X11)" etag="uX9-jbBJ320LIYm_zmpv" version="12.9.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-04-27T20:05:55.608Z" agent="5.0 (X11)" etag="EJpbnTBKD1hLSk_jqP_H" version="12.9.7" type="github" pages="2">
   <diagram id="GA6xuZxUyR5IifmVGQSb" name="UseCase">
     <mxGraphModel dx="1355" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -80,6 +80,32 @@
       <root>
         <mxCell id="XW-3bzXkROwfuT0OX0J9-0" />
         <mxCell id="XW-3bzXkROwfuT0OX0J9-1" parent="XW-3bzXkROwfuT0OX0J9-0" />
+        <mxCell id="QxkwGULA9NofLSkHYxQ2-7" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="XW-3bzXkROwfuT0OX0J9-1">
+          <mxGeometry x="25" y="90" width="800" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="QxkwGULA9NofLSkHYxQ2-8" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;strokeColor=inherit;fillColor=#F7F7F7;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=center;spacing=20;fontSize=14;" vertex="1" parent="QxkwGULA9NofLSkHYxQ2-7">
+          <mxGeometry width="800" height="60" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QxkwGULA9NofLSkHYxQ2-9" value="Users" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;arcSize=5;strokeColor=none;fillColor=#0085FC;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=center;spacing=20;fontSize=14;fontColor=#ffffff;" vertex="1" parent="QxkwGULA9NofLSkHYxQ2-7">
+          <mxGeometry width="80" height="40" relative="1" as="geometry">
+            <mxPoint x="10" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QxkwGULA9NofLSkHYxQ2-10" value="Caffe" style="strokeColor=none;fillColor=none;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=center;spacing=20;fontSize=14;fontColor=#0085FC;" vertex="1" parent="QxkwGULA9NofLSkHYxQ2-7">
+          <mxGeometry width="50" height="40" relative="1" as="geometry">
+            <mxPoint x="95" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QxkwGULA9NofLSkHYxQ2-13" value="Go somewhere" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;perimeter=none;whiteSpace=wrap;align=center;fillColor=#0085FC;strokeColor=none;fontColor=#ffffff;resizeWidth=1;fontSize=14;" vertex="1" parent="QxkwGULA9NofLSkHYxQ2-7">
+          <mxGeometry x="0.5" y="1" width="120" height="40" relative="1" as="geometry">
+            <mxPoint x="-60" y="-60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3rCNQgUtVS39NhmrroCk-0" value="Billing" style="strokeColor=none;fillColor=none;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=center;spacing=20;fontSize=14;fontColor=#0085FC;" vertex="1" parent="QxkwGULA9NofLSkHYxQ2-7">
+          <mxGeometry width="50" height="40" relative="1" as="geometry">
+            <mxPoint x="155" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
