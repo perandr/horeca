@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-24T10:23:41.852Z" agent="5.0 (X11)" etag="6hNXxdM9Xt-R32Oee-bg" version="13.6.10" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-10-24T10:24:18.200Z" agent="5.0 (X11)" etag="2VPVPNDzIFa7g8tTFw4Z" version="13.6.10" type="github" pages="3">
   <diagram id="Gm7hvLBUQmAg7F9odShK" name="PC">
     <mxGraphModel dx="1046" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -90,9 +90,6 @@
         </mxCell>
         <mxCell id="KC7cytiDaOtTTGuWDnw6-18" value="&lt;div&gt;Add To Cart&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="LVDliFWSqMjllBE2lXC4-1">
           <mxGeometry x="55" y="760" width="170" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="KC7cytiDaOtTTGuWDnw6-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LVDliFWSqMjllBE2lXC4-1">
-          <mxGeometry x="390" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KC7cytiDaOtTTGuWDnw6-20" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="LVDliFWSqMjllBE2lXC4-1">
           <mxGeometry x="10" y="561" width="780" height="450" as="geometry" />
